@@ -1,0 +1,9 @@
+[submodule "Projekti/Mongo"]
+	path = Projekti/Mongo
+	url = https://Danilo_Nikolic@bitbucket.org/17942stefanstanimirovic/mongodb_nbp.git
+[submodule "Projekti/Redis"]
+	path = Projekti/Redis
+	url = https://Danilo_Nikolic@bitbucket.org/17942stefanstanimirovic/redis_nbp.git
+[submodule "Projekti/Neo4j"]
+	path = Projekti/Neo4j
+	url = https://Danilo_Nikolic@bitbucket.org/17942stefanstanimirovic/neo4j_nbp.git
