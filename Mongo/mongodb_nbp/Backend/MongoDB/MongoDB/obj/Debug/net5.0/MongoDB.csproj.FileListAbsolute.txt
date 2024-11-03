@@ -1,0 +1,219 @@
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.json
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.exe
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.deps.json
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.json
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.dev.json
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.pdb
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\DnsClient.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\SharpCompress.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Snappier.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\ZstdSharp.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.AssemblyReference.cache
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfoInputs.cache
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfo.cs
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.CoreCompileInputs.cache
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\scopedcss\bundle\MongoDB.styles.css
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\MongoDB.StaticWebAssets.Manifest.cache
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\MongoDB.StaticWebAssets.Pack.cache
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.MongoDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.build.MongoDB.props
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MongoDB.props
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MongoDB.props
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.RazorTargetAssemblyInfo.cache
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.CopyComplete
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\refint\MongoDB.dll
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.pdb
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.genruntimeconfig.cache
+C:\Faks\4\NBP\Projekti '23\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\ref\MongoDB.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.json
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.exe
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.deps.json
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.json
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.dev.json
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.pdb
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\DnsClient.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\SharpCompress.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Snappier.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\ZstdSharp.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.AssemblyReference.cache
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfoInputs.cache
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfo.cs
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.CoreCompileInputs.cache
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\scopedcss\bundle\MongoDB.styles.css
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\MongoDB.StaticWebAssets.Manifest.cache
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\MongoDB.StaticWebAssets.Pack.cache
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.MongoDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.build.MongoDB.props
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MongoDB.props
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MongoDB.props
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.RazorTargetAssemblyInfo.cache
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.CopyComplete
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\refint\MongoDB.dll
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.pdb
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.genruntimeconfig.cache
+C:\Faks\4\NBP\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\ref\MongoDB.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.exe
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.deps.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\ref\MongoDB.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.pdb
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Snappier.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\scopedcss\bundle\MongoDB.styles.css
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\MongoDB.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\ref\MongoDB.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.pdb
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.genruntimeconfig.cache
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.json
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.exe
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.deps.json
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.json
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.dev.json
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.pdb
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\DnsClient.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\SharpCompress.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Snappier.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\ZstdSharp.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.AssemblyReference.cache
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfoInputs.cache
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfo.cs
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.CoreCompileInputs.cache
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\scopedcss\bundle\MongoDB.styles.css
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\MongoDB.StaticWebAssets.Manifest.cache
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.RazorTargetAssemblyInfo.cache
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.CopyComplete
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\refint\MongoDB.dll
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.pdb
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.genruntimeconfig.cache
+C:\Mongo_NBP\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\ref\MongoDB.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\appsettings.json
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.exe
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.deps.json
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.json
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.runtimeconfig.dev.json
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.pdb
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Snappier.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.AssemblyReference.cache
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfoInputs.cache
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.AssemblyInfo.cs
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\scopedcss\bundle\MongoDB.styles.css
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\MongoDB.StaticWebAssets.Manifest.cache
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\MongoDB.StaticWebAssets.Pack.cache
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.MongoDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.build.MongoDB.props
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MongoDB.props
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MongoDB.props
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.RazorTargetAssemblyInfo.cache
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.csproj.CopyComplete
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\refint\MongoDB.dll
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.pdb
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\MongoDB.genruntimeconfig.cache
+C:\Users\Danilo\Desktop\Mongo\mongodb_nbp\Backend\MongoDB\MongoDB\obj\Debug\net5.0\ref\MongoDB.dll

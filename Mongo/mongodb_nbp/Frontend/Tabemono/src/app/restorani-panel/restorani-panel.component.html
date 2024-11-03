@@ -1,0 +1,27 @@
+<div class="res-content">
+  <div class="search-panel">
+    <input [(ngModel)]="nazivProdavnice" />
+    <button mat-button (click)="nadjiProdavnicu()">Pretrazi</button>
+    <button mat-button (click)="openRestoranDialog()">Dodaj</button>
+  </div>
+  <div class="search-results">
+    <div class="element" *ngIf="prodavnice == []">
+      <img src="/assets/default-prodavnica.png" />
+      <label>Id</label>
+      <label>naziv</label>
+      <label>email</label>
+      <label>adresa</label>
+      <label>Broj telefona</label>
+      <button (click)="DeleteRestoran('nema')">X</button>
+    </div>
+    <div class="element" *ngFor="let p of prodavnice">
+      <img src="/assets/default-prodavnica.png" />
+      <label>{{ p.string_id }}</label>
+      <label>{{ p.ime }}</label>
+      <label>{{ p.email }}</label>
+      <label>{{ p.adresa }}</label>
+      <label>{{ p.broj_telefona }}</label>
+      <button (click)="DeleteRestoran(p.string_id)">X</button>
+    </div>
+  </div>
+</div>

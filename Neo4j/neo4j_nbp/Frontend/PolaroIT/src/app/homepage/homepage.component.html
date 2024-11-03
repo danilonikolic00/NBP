@@ -1,0 +1,50 @@
+<div class="home-content">
+  <div class="header">
+    <div class="Logo" (click)="promeniPage('foryou')">
+      PolaroIT <mat-icon>camera</mat-icon>
+    </div>
+    <button mat-flat-button (click)="promeniPage('search')">Search</button>
+    <button mat-flat-button (click)="logout()">Logout</button>
+    <button
+      mat-icon-button
+      class="mini-profil"
+      (click)="clickProfil()"
+      (click)="promeniPage('profil')"
+      id="miniprofil"
+    >
+      <!-- <img [src]="createImgPath(profilna)" /> -->
+    </button>
+  </div>
+  <div class="router-design">
+    <!-- Ovde stavljate app sa promenjivama -->
+    <app-profil
+      (emiter)="promeniPage($event)"
+      *ngIf="page == 'profil'"
+    ></app-profil>
+    <app-profil
+      (emiter)="promeniPage($event)"
+      *ngIf="page == 'tudjiProfil'"
+    ></app-profil>
+    <app-profil
+      (emiter)="promeniPage($event)"
+      *ngIf="page == 'tudjiProfil2'"
+    ></app-profil>
+
+    <!-- [CurrentKime] ="Kime" -->
+    <app-foryou *ngIf="page == 'foryou'"></app-foryou>
+    <app-search
+      (emiter)="promeniPage($event)"
+      *ngIf="page == 'search'"
+    ></app-search>
+  </div>
+  <div class="footer">
+    <div class="Logo-footer">PolaroIT™<mat-icon>camera</mat-icon></div>
+    <div>
+      <p style="font-size: 1.2rem; font-weight: 600">Dev team:</p>
+      <p>17942 - Stefan Stanimirovic</p>
+      <p>17965 Nikola Stevanovic</p>
+      <p>17989 - Marko Stojilovic</p>
+      <p>17844 Danilo Nikolic</p>
+    </div>
+  </div>
+</div>

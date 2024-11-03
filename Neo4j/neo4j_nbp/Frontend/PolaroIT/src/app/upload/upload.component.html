@@ -1,0 +1,22 @@
+<input
+  type="file"
+  #file
+  placeholder="Choose file"
+  (change)="uploadFile(file.files)"
+  style="display: none"
+  multiple
+/>
+<button type="button" (click)="file.click()" class="uploadButton">
+  <mat-icon style="scale: 2">exposure_plus_1</mat-icon>
+</button>
+<div class="podatak-div">
+  <label class="tip-podatka">Tagovi:</label>
+  <input [(ngModel)]="InputTags"/>
+  <label class="tip-podatka">Drzava:</label>
+  <input [(ngModel)]="InputDrzava"/>
+</div>
+
+<span class="upload" *ngIf="progress > 0"> {{ progress }}% </span>
+<span class="upload" *ngIf="message">
+  {{ message }}
+</span>

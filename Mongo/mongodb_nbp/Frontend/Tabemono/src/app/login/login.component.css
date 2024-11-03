@@ -1,0 +1,81 @@
+.content {
+  background: url("/assets/background.png");
+  background-color: #d9d5ca;
+  background-repeat: round;
+  width: auto;
+  height: 100%;
+  min-height: 60rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.phone-base {
+  background-color: rgba(0, 0, 0, 1);
+  width: fit-content;
+  height: 90%;
+  border-radius: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.data-form {
+  padding-top: 6rem;
+  background-color: rgba(164, 151, 134, 1);
+  background-repeat: round;
+  width: 30rem;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.data-form img {
+  width: 8rem;
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+}
+
+.data-form mat-form-field {
+  width: 80%;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  cursor: pointer;
+  background-color: rgba(164, 151, 134, 0.82);
+  height: fit-content;
+  padding-bottom: 3rem;
+}
+
+span {
+  width: 100%;
+  background-color: rgba(164, 151, 134, 0.82);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#btn {
+  background-color: rgba(33, 33, 33, 1);
+  color: white;
+  width: 10rem;
+  scale: 1.2;
+}
+
+#btn:hover {
+  background-color: rgba(33, 33, 33, 1);
+}

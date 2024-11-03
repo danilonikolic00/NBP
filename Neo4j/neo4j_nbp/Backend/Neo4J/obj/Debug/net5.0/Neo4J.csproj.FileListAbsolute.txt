@@ -1,0 +1,226 @@
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\appsettings.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Neo4J.exe
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Neo4J.deps.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\scopedcss\bundle\Neo4J.styles.css
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\staticwebassets\Neo4J.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CopyComplete
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\refint\Neo4J.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\Neo4J.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\Neo4J\Neo4J\obj\Debug\net5.0\ref\Neo4J.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\appsettings.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.exe
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.deps.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\scopedcss\bundle\Neo4J.styles.css
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\staticwebassets\Neo4J.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CopyComplete
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\refint\Neo4J.dll
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Projects\Napredne baze\neo4j_nbp\Neo4J\obj\Debug\net5.0\ref\Neo4J.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\appsettings.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.exe
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.deps.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\ref\Neo4J.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\scopedcss\bundle\Neo4J.styles.css
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\staticwebassets\Neo4J.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\ref\Neo4J.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Neo4J\obj\Debug\net5.0\Neo4J.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\appsettings.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.exe
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.deps.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\ref\Neo4J.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\scopedcss\bundle\Neo4J.styles.css
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\staticwebassets\Neo4J.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\ref\Neo4J.dll
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.genruntimeconfig.cache
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\appsettings.Development.json
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\appsettings.json
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.exe
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.deps.json
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.json
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.dev.json
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.pdb
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4jClient.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.AssemblyReference.cache
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.GeneratedMSBuildEditorConfig.editorconfig
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfoInputs.cache
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfo.cs
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CoreCompileInputs.cache
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cs
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cache
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\scopedcss\bundle\Neo4J.styles.css
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\staticwebassets\Neo4J.StaticWebAssets.Manifest.cache
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.RazorTargetAssemblyInfo.cache
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CopyComplete
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\refint\Neo4J.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.pdb
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.genruntimeconfig.cache
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\ref\Neo4J.dll
+C:\Neo4j_NBP\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\Projekti\NPB gitovi\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CopyComplete
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\appsettings.Development.json
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\appsettings.json
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.exe
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.deps.json
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.json
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.dev.json
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\ref\Neo4J.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.pdb
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4j.Driver.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4jClient.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.AssemblyReference.cache
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.GeneratedMSBuildEditorConfig.editorconfig
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfoInputs.cache
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfo.cs
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CoreCompileInputs.cache
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cs
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cache
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\staticwebassets\Neo4J.StaticWebAssets.Manifest.cache
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\staticwebassets\Neo4J.StaticWebAssets.xml
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\scopedcss\bundle\Neo4J.styles.css
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.RazorTargetAssemblyInfo.cache
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CopyComplete
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\ref\Neo4J.dll
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.pdb
+D:\NBP\Neo4j-projekat\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\appsettings.json
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.exe
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.deps.json
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.json
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\ref\Neo4J.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\scopedcss\bundle\Neo4J.styles.css
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\staticwebassets\Neo4J.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\ref\Neo4J.dll
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.pdb
+C:\Users\Stefan\Desktop\Test\neo4j_nbp\Backend\Neo4J\obj\Debug\net5.0\Neo4J.genruntimeconfig.cache

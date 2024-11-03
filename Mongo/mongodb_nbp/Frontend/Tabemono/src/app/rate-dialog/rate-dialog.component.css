@@ -1,0 +1,17 @@
+.rate-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #d9d5ca;
+  height: 100%;
+}
+
+.rate-content button {
+  margin-top: 1.5rem;
+}
+
+input {
+  background-color: red !important;
+  color: red;
+}

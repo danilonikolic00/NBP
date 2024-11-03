@@ -1,0 +1,40 @@
+:root {
+  font-family: "Lexend", sans-serif;
+}
+
+.list-content {
+  width: auto;
+  height: fit-content;
+  max-height: 29rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  overflow-y: scroll;
+  background-color: aliceblue;
+  padding: 5px;
+}
+
+.list-element {
+  font-size: 1rem;
+  padding: 1rem;
+  border-top: 1px solid whitesmoke;
+  width: 10rem;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.95);
+  color: whitesmoke;
+}
+
+.list-content::-webkit-scrollbar {
+  width: 0px;
+}
+
+.list-element:hover {
+  font-size: 1rem;
+  padding: 1rem;
+  border-top: 1px solid black;
+  width: 10rem;
+  text-align: center;
+  background-color: white;
+  color: black;
+}

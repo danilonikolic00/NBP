@@ -1,0 +1,33 @@
+<div class="edit-con">
+  <label class="info-label">Ime:</label>
+  <label *ngIf="getProfileMode() == 0">{{ editproizvod.ime }}</label>
+  <input *ngIf="getProfileMode() == 1" [(ngModel)]="editproizvod.ime" />
+
+  <label class="info-label">Kategorija</label>
+  <label *ngIf="getProfileMode() == 0">{{ editproizvod.kategorija }}</label>
+  <input *ngIf="getProfileMode() == 1" [(ngModel)]="editproizvod.kategorija" />
+
+  <label class="info-label">Cena</label>
+  <label *ngIf="getProfileMode() == 0">{{ editproizvod.cena }}</label>
+  <input *ngIf="getProfileMode() == 1" [(ngModel)]="editproizvod.cena" />
+
+  <label class="info-label">Opis:</label>
+  <label *ngIf="getProfileMode() == 0">{{ editproizvod.opis }}</label>
+  <textarea
+    *ngIf="getProfileMode() == 1"
+    [(ngModel)]="editproizvod.opis"
+  ></textarea>
+
+  <label class="info-label">Dostupnost</label>
+  <label *ngIf="getProfileMode() == 0"
+    ><label *ngIf="editproizvod.dostupnost">Da</label
+    ><label *ngIf="!editproizvod.dostupnost">Ne</label></label
+  >
+  <select *ngIf="getProfileMode() == 1" [(ngModel)]="editproizvod.dostupnost">
+    <option value="true">Da</option>
+    <option value="false">Ne</option>
+  </select>
+
+  <button mat-button (click)="ChangeProfileMode()">Edit</button>
+  <button mat-button (click)="IzmeniProizvod()">Sacuvaj</button>
+</div>

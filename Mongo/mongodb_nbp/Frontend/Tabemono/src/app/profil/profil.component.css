@@ -1,0 +1,116 @@
+.content {
+  width: auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: start;
+  background-color: #a49786;
+}
+
+.info,
+.data {
+  background-color: #d9d5ca;
+  width: 100%;
+  min-height: 100px;
+  display: flex;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-bottom: 10rem;
+}
+
+.data {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  height: fit-content;
+}
+
+.element {
+  width: 100%;
+  background-color: #d9d5ca;
+  border-bottom: 2px solid #222222;
+  height: 4rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.element:hover {
+  background-color: blue;
+  background-color: #222222;
+  border-top: 2px solid #d9d5ca;
+  color: #d9d5ca;
+}
+
+.data-list {
+  width: 100%;
+}
+
+.photo-div img {
+  width: 9rem;
+  padding: 5px;
+  border: #222222 5px solid;
+}
+
+.user-info {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.input-label {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.input-label label {
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.info-name {
+  text-decoration: underline;
+}
+
+.input-label input {
+  font-size: 1.1rem;
+}
+
+.user-info button {
+  width: 8rem;
+  font-size: 1.2rem;
+  background-color: black;
+  color: #d9d5ca;
+  min-height: fit-content;
+  min-width: fit-content;
+  margin: 5px 5px;
+}
+
+.user-info button:hover {
+  background-color: #d9d5ca;
+  color: black;
+}
+
+select {
+  font-size: 1rem;
+  width: 9rem;
+}
+
+.element button {
+  border: 1px solid #222222;
+  background: rgb(121, 29, 29);
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  margin-top: 1rem;
+}

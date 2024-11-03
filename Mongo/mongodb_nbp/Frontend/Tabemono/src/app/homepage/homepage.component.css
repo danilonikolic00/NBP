@@ -1,0 +1,91 @@
+header,
+footer {
+  background-color: #a49786;
+  width: auto;
+  height: 5rem;
+  min-height: fit-content;
+  padding: 0.5rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header img {
+  width: 4.5rem;
+}
+
+.search-div button {
+  margin-left: 20px;
+}
+.search-div {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+#searchform {
+  width: 50rem;
+}
+
+#profile-btn,
+#cart-btn {
+  width: fit-content;
+  border: 1px solid #222222;
+  display: flex;
+  justify-content: space-between;
+}
+
+#card-label {
+  color: #d9d5ca;
+  border: 1px solid #222222;
+  border-radius: 100%;
+  background-color: #222222;
+  width: 20px;
+  font-size: large;
+}
+
+.menu-btn {
+  background-color: #a49786;
+  border: 1px solid #2222;
+}
+
+footer {
+  margin-top: 2rem;
+  height: fit-content;
+  padding-bottom: 3rem;
+  position: relative;
+}
+
+footer img {
+  width: 9rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: larger;
+}
+
+#cart-btn {
+  margin-right: 50px !important;
+}
+
+.route-div {
+  border: 2px solid #222222;
+  width: 80%;
+  height: 60rem;
+}
+
+@media screen and (max-width: 912px) {
+  header {
+    flex-direction: column-reverse;
+
+    width: 100%;
+    padding: 0 0;
+    height: fit-content;
+  }
+  #searchform {
+    width: 90%;
+  }
+}

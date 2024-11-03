@@ -1,0 +1,77 @@
+<header>
+  <img src="/assets/minilogo.png" (click)="SetRoute('')" />
+  <mat-form-field *ngIf="getRoute() != 2">
+    <mat-label>Izaberite kategoriju</mat-label>
+    <mat-select [(value)]="kategorija">
+      <mat-option
+        *ngFor="let k of kategorije"
+        (click)="nadjiPoKategoriji(k.ime)"
+        >{{ k.ime }}</mat-option
+      >
+    </mat-select>
+  </mat-form-field>
+  <div class="search-div" *ngIf="getRoute() != 2">
+    <mat-form-field id="searchform">
+      <input
+        id="searchInput"
+        [(ngModel)]="nazivProdavnice"
+        matInput
+        placeholder="Pretrazi"
+      />
+    </mat-form-field>
+    <button mat-flat-button color="accent" (click)="nadjiProdavnicu()">
+      Pretrazi
+    </button>
+  </div>
+
+  <div style="display: flex">
+    <button
+      id="cart-btn"
+      *ngIf="getTip() == true"
+      mat-icon-button
+      color="accent"
+      (click)="viewKorpa()"
+    >
+      <mat-icon style="color: black">shopping_cart</mat-icon>
+      <div id="card-label">{{ broj }}</div>
+    </button>
+    <button
+      id="profile-btn"
+      mat-icon-button
+      color="accent"
+      [matMenuTriggerFor]="menu"
+    >
+      <mat-icon style="color: black">menu</mat-icon>
+      <mat-menu color="warn" #menu="matMenu">
+        <button class="menu-btn" mat-menu-item (click)="SetRoute('profil')">
+          Profil
+        </button>
+        <button class="menu-btn" mat-menu-item (click)="logout()">
+          Izloguj se
+        </button>
+      </mat-menu>
+    </button>
+  </div>
+</header>
+
+<app-zero-page *ngIf="getRoute() == 0"></app-zero-page>
+<app-profil *ngIf="getRoute() == 1"></app-profil>
+<div *ngIf="getRoute() == 2" style="display: flex; justify-content: center">
+  <div class="route-div">
+    <app-prodavnica [idprodavnice]="idProdavnice"></app-prodavnica>
+  </div>
+</div>
+<footer id="footer">
+  <ul>
+    <h1>Developer team</h1>
+    <li>Stefan Stanimirovic 17942</li>
+    <li>Marko Stojilovic 17989</li>
+    <li>Nikola Stevanovic 17965</li>
+    <li>Danilo Nikolic 17844</li>
+  </ul>
+
+  <div>
+    <img src="/assets/biglogo.png" />
+    <p>食べ物 Tabemono ™</p>
+  </div>
+</footer>

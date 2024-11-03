@@ -1,0 +1,12 @@
+<div class="search">
+    <mat-form-field class="inputForma">
+        <mat-label class="labelaInput">Unesi korisnicko ime</mat-label>
+        <input [(ngModel)]="patern" matInput />
+    </mat-form-field>
+    <button (click)="pretrazi()">Pretrazi</button>
+</div>
+<div class="search-result">
+    <div class="korisnici" *ngFor="let k of korisnici">
+        <div (click)="emit(k.korisnicko_ime)">{{k.korisnicko_ime}}</div>
+    </div>
+</div>

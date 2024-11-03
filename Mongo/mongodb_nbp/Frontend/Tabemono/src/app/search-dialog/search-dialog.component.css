@@ -1,0 +1,20 @@
+.search-results {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  width: 60rem;
+  height: fit-content;
+  padding: 1.5rem 0;
+  background-color: #d9d5ca;
+  border: 7px solid #222222;
+}
+
+.result {
+  padding: 1rem 0;
+  border-bottom: 2px solid #222222;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}

@@ -1,0 +1,5 @@
+<div class="contentz">
+  <div class="photo-div" *ngFor="let t of slike2" (click)="openPhoto(t)">
+    <img [src]="createImgPath(t.lokacija)" />
+  </div>
+</div>

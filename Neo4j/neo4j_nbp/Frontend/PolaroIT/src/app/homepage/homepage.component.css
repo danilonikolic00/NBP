@@ -1,0 +1,65 @@
+.home-content {
+  background: url("/assets/homepagebackground.jpg");
+  width: 100%;
+  height: fit-content;
+  min-height: 60rem;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.header {
+  width: 99%;
+  background-color: rgba(0, 0, 0, 0.82);
+  height: 4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  border-bottom: white 1px solid;
+}
+
+.mini-profil {
+  border: 1px solid white;
+  background: url("/assets/profile.png");
+  background-repeat: round;
+  scale: 1;
+}
+
+.Logo {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.router-design {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 80%;
+  height: 60rem;
+  border-left: white 1px solid;
+  border-right: white 1px solid;
+}
+
+.footer {
+  border-top: white 1px solid;
+  width: 100%;
+  height: fit-content;
+  margin-top: auto;
+  background-color: rgba(0, 0, 0, 0.98);
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  font-family: "Lexend", sans-serif;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Logo-footer {
+  scale: 2.5;
+}

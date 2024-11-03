@@ -1,0 +1,44 @@
+.upload {
+    font-weight: bold;
+    color: #28a745;
+    margin-left: 15px;
+    line-height: 36px;
+  }
+  button {
+    margin: 10px 10px;
+    background-color: black;
+    color: white;
+  }
+  button:hover {
+    background-color: white !important;
+    color: black !important;
+  }
+  
+  mat-icon {
+    background-color: rgb(104, 104, 104);
+    color: black;
+    border: 5px solid rgb(104, 104, 104);
+    border-radius: 50px;
+  }
+  .tip-podatka {
+    color: whitesmoke;
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+  }
+  .podatak-labela {
+    color: whitesmoke;
+    font-size: 1.2rem;
+    width: fit-content;
+  }
+  .podatak-div {
+    padding: 1rem;
+  }
+  input {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+  
+    font-size: medium;
+  
+    padding: 0.3rem;
+    font-weight: 600;
+  }

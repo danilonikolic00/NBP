@@ -1,0 +1,58 @@
+.prozivod-add-content {
+  height: 100%;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  padding: 1rem 0;
+  border: 10px solid #222222;
+  background-color: #d9d5ca;
+}
+
+.prozivod-add-content input {
+  font-size: 1.2rem;
+  height: 1rem;
+  padding: 5px 5px;
+  width: 12rem;
+  margin-bottom: 1rem;
+}
+
+.prozivod-add-content label {
+  font-size: 1.1rem;
+}
+
+.prozivod-add-content textarea {
+  resize: none;
+  width: 85%;
+  height: 16rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+textarea::-webkit-scrollbar {
+  width: 0px;
+}
+
+.prozivod-add-content button {
+  width: 15rem;
+  height: 3em;
+  background-color: #222222;
+  margin-top: 2rem;
+  font-size: 1rem;
+  color: #d9d5ca;
+}
+
+.prozivod-add-content button:hover {
+  background-color: #d9d5ca;
+  color: #222222;
+  border: 2px #222222 solid;
+}
+
+.prozivod-add-content select {
+  width: 13rem;
+  height: 2em;
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}

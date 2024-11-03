@@ -1,0 +1,61 @@
+<div class="content">
+  <div class="Login-div" *ngIf="mode">
+    <label class="Tip-label">Registracija</label>
+    <mat-form-field>
+      <mat-label>Ime</mat-label>
+      <input [(ngModel)]="CurrentKorisnik.ime" matInput />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Prezime</mat-label>
+      <input matInput [(ngModel)]="CurrentKorisnik.prezime" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Godina rodjenja</mat-label>
+      <input matInput type="date" [(ngModel)]="CurrentKorisnik.rodjedan" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Drzava</mat-label>
+      <input matInput [(ngModel)]="CurrentKorisnik.drzava" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Email</mat-label>
+      <input matInput [(ngModel)]="CurrentKorisnik.email" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Korisnicko ime</mat-label>
+      <input matInput [(ngModel)]="CurrentKorisnik.korisnicko_ime" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Lozinka</mat-label>
+      <input matInput [(ngModel)]="CurrentKorisnik.lozinka" type="password" />
+    </mat-form-field>
+
+    <button mat-raised-button color="primary" (click)="register()">
+      Registruj se
+    </button>
+
+    <label (click)="PromeniMod()" style="color: white; margin-top: 0.5rem"
+      >Prijavi se
+    </label>
+  </div>
+
+  <div class="Login-div" *ngIf="!mode">
+    <label class="Tip-label">Prijava</label>
+
+    <mat-form-field>
+      <mat-label>Korisnicko ime</mat-label>
+      <input matInput [(ngModel)]="CurrentKorisnik.korisnicko_ime" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Lozinka</mat-label>
+      <input matInput [(ngModel)]="CurrentKorisnik.lozinka" type="password" />
+    </mat-form-field>
+
+    <button mat-raised-button color="primary" (click)="login()">
+      Prijavi se
+    </button>
+    <label (click)="PromeniMod()" style="color: white; margin-top: 0.5rem"
+      >Registruj se
+    </label>
+  </div>
+</div>

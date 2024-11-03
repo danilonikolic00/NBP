@@ -1,0 +1,26 @@
+.Zero-page-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  background: rgb(164, 151, 134);
+  background: linear-gradient(
+    360deg,
+    rgba(164, 151, 134, 1) 0%,
+    rgba(217, 213, 202, 1) 100%
+  );
+  flex-wrap: wrap;
+}
+
+.foods {
+  width: 26rem;
+  border: 1rem solid #222222;
+  padding: 5px 5px;
+  margin: 2rem 1rem;
+}
+
+.chef-logo {
+  width: 30rem;
+  border: 0px;
+  margin-top: 1rem;
+}

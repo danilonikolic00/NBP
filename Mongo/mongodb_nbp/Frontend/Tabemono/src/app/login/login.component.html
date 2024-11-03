@@ -1,0 +1,90 @@
+<div class="content">
+  <div class="phone-base">
+    <div class="data-form">
+      <span><img src="/assets/minilogo.png" /></span>
+      <div class="data" *ngIf="GetMode() == 1">
+        <mat-form-field>
+          <input matInput type="email" required placeholder="Email" #email />
+        </mat-form-field>
+        <mat-form-field>
+          <input
+            matInput
+            type="password"
+            required
+            placeholder="Lozinka"
+            #lozinka
+          />
+        </mat-form-field>
+        <button
+          id="btn"
+          mat-raised-button
+          (click)="login(email.value, lozinka.value)"
+        >
+          Prijavi se
+        </button>
+        <p style="color: white" (click)="ChangeMode()">
+          Nemate profil ?? Registrujte se
+        </p>
+      </div>
+      <div class="data" *ngIf="GetMode() == 0">
+        <mat-form-field>
+          <input matInput required placeholder="Ime" #ime />
+        </mat-form-field>
+        <mat-form-field>
+          <input matInput required placeholder="Prezime" #prezime />
+        </mat-form-field>
+        <mat-form-field>
+          <input matInput type="email" required placeholder="Email" #email />
+        </mat-form-field>
+        <mat-form-field>
+          <input
+            matInput
+            type="password"
+            required
+            placeholder="Lozinka"
+            #lozinka
+          />
+        </mat-form-field>
+        <mat-form-field>
+          <input
+            matInput
+            type="password"
+            required
+            placeholder="Ponovo lozinka"
+            #provera
+          />
+        </mat-form-field>
+        <mat-form-field>
+          <input
+            matInput
+            type="number"
+            required
+            placeholder="Broj telefona"
+            #broj
+          />
+        </mat-form-field>
+        <button
+          mat-raised-button
+          color="primary"
+          id="btn"
+          (click)="
+            register(
+              ime.value,
+              prezime.value,
+              email.value,
+              lozinka.value,
+              provera.value,
+              broj.value
+            )
+          "
+        >
+          Registruj se
+        </button>
+
+        <p style="color: white" (click)="ChangeMode()">
+          Imate profil? Prijavite se
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

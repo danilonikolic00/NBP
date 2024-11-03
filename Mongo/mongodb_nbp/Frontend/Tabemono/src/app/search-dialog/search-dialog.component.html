@@ -1,0 +1,9 @@
+<div class="search-results">
+  <div
+    class="result"
+    *ngFor="let p of prodavnice"
+    (click)="izaberiProdavnicu(p.string_id)"
+  >
+    {{ p.ime }}
+  </div>
+</div>

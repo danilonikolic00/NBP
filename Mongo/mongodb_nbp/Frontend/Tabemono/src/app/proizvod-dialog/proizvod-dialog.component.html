@@ -1,0 +1,37 @@
+<div class="proizvod-content">
+  <div>
+    <img
+      src="assets/food-default.png"
+      *ngIf="product.slika == '' || product.slika == null"
+    />
+    <img
+      [src]="createImgPathProiz(product.slika)"
+      *ngIf="product.slika != null && product.slika != ''"
+    />
+  </div>
+  <div style="font-weight: 600">Ime:</div>
+  <div>{{ product.ime }}</div>
+  <br />
+  <div style="font-weight: 600">Cena:</div>
+  <div>{{ product.cena }} RSD</div>
+  <br />
+  <div style="font-weight: 600">
+    Dostupnost:
+    <label *ngIf="product.dostupnost">Da</label>
+    <label *ngIf="!product.dostupnost">Ne</label>
+  </div>
+  <br />
+  <div style="font-weight: 600">Opis:</div>
+  <div style="width: 80%; border: 2px solid black; padding: 20px 10px">
+    {{ product.opis }}
+  </div>
+  <button
+    mat-raised-button
+    *ngIf="getTip() == true"
+    (click)="dodajUKorpu(product.id_string)"
+    type="submit"
+    id="nrc-btn"
+  >
+    Dodaj u korpu
+  </button>
+</div>

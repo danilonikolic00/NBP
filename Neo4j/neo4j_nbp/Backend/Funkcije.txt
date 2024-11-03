@@ -1,0 +1,27 @@
+Korisnik
+
+-delete profile ???
+-login // Stefan GOTOVO
+-register // Stefan GOTOVO
+-logout // Stefan GOTOVO
+
+-change profile // Nikola
+
+-upload pic // Stefan 
+-delete pic // Stefan 
+-change pic info // Nikola
+
+- change preference // Nikola
+
+- follow // D i M GOTOVO
+- unfollow // D i M GOTOVO
+
+- like // D i M
+- unlike // D i M
+
+-comment // D i M 
+-del comment// D i M 
+
+-mention // D i M GOTOVO
+
+

@@ -1,0 +1,177 @@
+<div class="profil-info">
+  <div class="profil-pic">
+    <div class="photo-div">
+      <img
+        [src]="createImgPath(CurrentKorisnik.profilnaSlika)"
+        *ngIf="CurrentKorisnik.profilnaSlika != ''"
+      />
+      <img
+        src="/assets/profile.png"
+        *ngIf="CurrentKorisnik.profilnaSlika == ''"
+      />
+    </div>
+    <div class="act-btns">
+      <button
+        mat-raised-button
+        color="primary"
+        (click)="changeKorisnik()"
+        (click)="changePreferences()"
+        *ngIf="!changeMode"
+      >
+        Sacuvaj
+      </button>
+      <button
+        mat-raised-button
+        color="primary"
+        (click)="PromeniMod()"
+        *ngIf="
+          changeMode && cookie.get('LoggedIn') == cookie.get('UserProfile')
+        "
+      >
+        Edit
+      </button>
+
+      <button
+        mat-raised-button
+        color="primary"
+        (click)="OpenMentions()"
+        *ngIf="cookie.get('LoggedIn') == cookie.get('UserProfile')"
+      >
+        Mentions
+      </button>
+      <button mat-raised-button color="primary" (click)="showFollowing()">
+        Following
+      </button>
+      <button mat-raised-button color="primary" (click)="showFollowers()">
+        Followers
+      </button>
+      <button mat-raised-button color="primary" (click)="Follow()">
+        Follow
+      </button>
+      <button mat-raised-button color="primary" (click)="Unfollow()">
+        Unfollow
+      </button>
+      <div
+        class="aphoto-div-add"
+        style="display: flex; justify-content: center; align-items: center"
+        *ngIf="cookie.get('LoggedIn') == cookie.get('UserProfile')"
+      >
+        <app-upload-profil (onUploadFinished)="uploadFinished($event)">
+        </app-upload-profil>
+      </div>
+    </div>
+  </div>
+  <div class="profil-data">
+    <div class="podatak-div">
+      <div class="form-field">
+        <label class="tip-podatka">Ime:</label>
+        <label class="podatak-labela" *ngIf="changeMode">{{
+          CurrentKorisnik.ime
+        }}</label>
+        <input [(ngModel)]="CurrentKorisnik.ime" #ime *ngIf="!changeMode" />
+      </div>
+    </div>
+    <div class="podatak-div">
+      <div class="form-field">
+        <label class="tip-podatka">Prezime:</label>
+        <label class="podatak-labela" *ngIf="changeMode">{{
+          CurrentKorisnik.prezime
+        }}</label>
+        <input
+          [(ngModel)]="CurrentKorisnik.prezime"
+          #prezime
+          *ngIf="!changeMode"
+        />
+      </div>
+    </div>
+    <div class="podatak-div">
+      <div class="form-field">
+        <label class="tip-podatka">Drzava:</label>
+        <label class="podatak-labela" *ngIf="changeMode">{{
+          ziviDrzava
+        }}</label>
+        <input [(ngModel)]="ziviDrzava" #drzava *ngIf="!changeMode" />
+      </div>
+    </div>
+    <div class="podatak-div">
+      <div class="form-field">
+        <label class="tip-podatka">Email:</label>
+        <label class="podatak-labela" *ngIf="changeMode">{{
+          CurrentKorisnik.email
+        }}</label>
+        <input [(ngModel)]="CurrentKorisnik.email" #email *ngIf="!changeMode" />
+      </div>
+    </div>
+
+    <div class="podatak-div">
+      <div class="form-field">
+        <label class="tip-podatka">Datum rodjenja:</label>
+        <label class="podatak-labela" *ngIf="changeMode">{{
+          CurrentKorisnik.rodjedan
+        }}</label>
+        <input
+          matInput
+          type="date"
+          [(ngModel)]="CurrentKorisnik.rodjedan"
+          *ngIf="!changeMode"
+        />
+      </div>
+    </div>
+
+    <div class="podatak-div">
+      <label class="tip-podatka">Tagovi:</label>
+      <div style="margin-top: 10px"></div>
+      <div *ngIf="CurrentTags != []" class="podatak-labela">
+        <div *ngIf="changeMode">
+          <label class="podatak-labela" *ngFor="let t of CurrentTags"
+            >{{ t.naziv }},
+          </label>
+        </div>
+        <div *ngIf="!changeMode">
+          <input [(ngModel)]="InputTags" #tags />
+        </div>
+      </div>
+    </div>
+
+    <div class="podatak-div">
+      <div class="form-field">
+        <label class="tip-podatka">Preferira drzavu:</label>
+        <label class="podatak-labela" *ngIf="changeMode">
+          {{ preferiraDrzava }}</label
+        >
+        <input [(ngModel)]="preferiraDrzava" #drzava *ngIf="!changeMode" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="profil-photos">
+  <div
+    class="photo-div-add"
+    style="display: flex; justify-content: center; align-items: center"
+    *ngIf="cookie.get('LoggedIn') == cookie.get('UserProfile')"
+  >
+    <app-upload (onUploadFinished)="uploadFinished($event)"> </app-upload>
+  </div>
+
+  <!-- <div class="photo-div">
+    <img [src]="createImgPath(CurrentSlike[0].lokacija)" />
+  </div> -->
+
+  <div
+    class="photo-div"
+    *ngFor="let t of this.CurrentSlike"
+    (click)="openPhotoz(t)"
+  >
+    <img [src]="createImgPath(t.lokacija)" />
+    <!--  -->
+  </div>
+</div>
+
+<div class="profilContent">
+  <label>Slike</label>
+  <div *ngFor="let tag of CurrentSlike">
+    <img [src]="createImgPath(tag.lokacija)" />
+  </div>
+  <!--  -->
+</div>

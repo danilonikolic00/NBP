@@ -1,0 +1,18 @@
+<div class="ord-context">
+  <div class="proizvod-group" *ngFor="let p of proizvodi">
+    <div class="proizvod">
+      <div>{{ p.ime }}</div>
+      <div>{{ p.cena }} RSD</div>
+    </div>
+  </div>
+
+  <label style="font-size: 1.2rem">Ukupna cena: {{ ukupnaCena }} RSD</label>
+  <label style="font-size: 1.1rem" *ngIf="status == 0"
+    >Status: potvrdjeno</label
+  >
+  <label style="font-size: 1.1rem" *ngIf="status == 1"
+    >Status: dostavljeno</label
+  >
+
+  <button mat-button (click)="naruci()" *ngIf="status != 1">Naruci</button>
+</div>

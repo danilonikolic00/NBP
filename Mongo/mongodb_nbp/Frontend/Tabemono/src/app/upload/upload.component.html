@@ -1,0 +1,21 @@
+<input
+  type="file"
+  #file
+  placeholder="Choose file"
+  (change)="uploadFile(file.files)"
+  style="display: none"
+  multiple
+/>
+<button
+  mat-raised-button
+  type="button"
+  (click)="file.click()"
+  class="uploadButton"
+>
+  <mat-icon style="width: 2rem; height: 2rem">add_a_photo</mat-icon>
+</button>
+
+<span class="upload" *ngIf="progress > 0"> {{ progress }}% </span>
+<span class="upload" *ngIf="message">
+  {{ message }}
+</span>

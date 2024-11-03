@@ -1,0 +1,40 @@
+.search,.search-result {
+    display: flex;
+    align-items: center; 
+    width: 100%; 
+}
+
+.inputForma {
+    flex: 1; 
+    height: 70px; 
+    padding: 10px; 
+    font-size: 18px; 
+    border: none; 
+    border-radius: 5px; 
+}
+button {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100px;
+    font-size: 10px; 
+}
+.search-result
+{
+    display: flex;
+    flex-direction: column;
+    max-height: 250px;
+    scroll-behavior: smooth;
+    justify-content: center;
+    overflow-y:scroll;
+}
+.korisnici
+{
+    display:flex;
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    color: white;
+}

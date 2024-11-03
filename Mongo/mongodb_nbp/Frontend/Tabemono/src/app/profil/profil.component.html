@@ -1,0 +1,154 @@
+<div class="content">
+  <div class="info">
+    <div class="photo-div">
+      <img
+        [src]="createImgPath()"
+        *ngIf="getProfileType() == 0 && shop.slika != ''"
+      />
+      <img
+        style="border: 6px solid #222222"
+        src="assets/default-prodavnica.png"
+        *ngIf="getProfileType() == 0 && shop.slika == ''"
+      />
+      <img src="assets/user.png" *ngIf="getProfileType() == 1" />
+    </div>
+    <div class="user-info">
+      <div class="input-label" *ngIf="getProfileType() == 0">
+        <label class="info-name" for="">Naziv</label>
+        <label for="" *ngIf="getProfileMode() == 0">{{ shop.ime }}</label>
+        <input *ngIf="getProfileMode() == 1" [(ngModel)]="shop.ime" />
+      </div>
+      <div class="input-label" *ngIf="getProfileType() == 1">
+        <label class="info-name" for="">Ime</label>
+        <label for="" *ngIf="getProfileMode() == 0">{{ klijent.ime }}</label>
+        <input *ngIf="getProfileMode() == 1" [(ngModel)]="klijent.ime" />
+      </div>
+      <div class="input-label" *ngIf="getProfileType() == 1">
+        <label class="info-name" for="">Prezime</label>
+        <label for="" *ngIf="getProfileMode() == 0">{{
+          klijent.prezime
+        }}</label>
+        <input *ngIf="getProfileMode() == 1" [(ngModel)]="klijent.prezime" />
+      </div>
+      <div class="input-label" *ngIf="getProfileMode() == 0">
+        <label class="info-name" for="">Email</label>
+        <label for="" *ngIf="getProfileType() == 1">{{ klijent.email }}</label>
+        <label for="" *ngIf="getProfileType() == 0">{{ shop.email }}</label>
+      </div>
+      <div class="input-label">
+        <label class="info-name" for="">Broj telefona</label>
+        <label for="" *ngIf="getProfileType() == 0 && getProfileMode() == 0">{{
+          shop.broj_telefona
+        }}</label>
+        <label for="" *ngIf="getProfileType() == 1 && getProfileMode() == 0">{{
+          klijent.broj_telefona
+        }}</label>
+        <input
+          *ngIf="getProfileType() == 1 && getProfileMode() == 1"
+          [(ngModel)]="klijent.broj_telefona"
+        />
+        <input
+          *ngIf="getProfileType() == 0 && getProfileMode() == 1"
+          [(ngModel)]="shop.broj_telefona"
+        />
+      </div>
+      <div
+        class="input-label"
+        *ngIf="getProfileType() == 0 && getProfileMode() == 0"
+      >
+        <label class="info-name" for="">Ocene</label>
+        <label for="">{{ shop.ocena }}</label>
+      </div>
+      <div
+        class="input-label"
+        *ngIf="getProfileType() == 0 && getProfileMode() == 0"
+      >
+        <label class="info-name" for="">Broj ocena</label>
+        <label for="">{{ shop.broj_ocena }}</label>
+      </div>
+      <div class="input-label" *ngIf="getProfileType() == 0">
+        <label class="info-name" for="">Adresa</label>
+        <label for="" *ngIf="getProfileMode() == 0">{{ shop.adresa }}</label>
+        <input *ngIf="getProfileMode() == 1" [(ngModel)]="shop.adresa" />
+      </div>
+      <div class="input-label" *ngIf="getProfileType() == 0">
+        <label class="info-name" for="">Kategorija</label>
+        <label class="" for="" *ngIf="getProfileMode() == 0"
+          ><label *ngIf="shop.kategorija_ime == ''">{{
+            shop.kategorija.ime
+          }}</label>
+          {{ shop.kategorija_ime }}</label
+        >
+        <select
+          name=""
+          id=""
+          [(ngModel)]="shop.kategorija_ime"
+          *ngIf="getProfileMode() == 1"
+        >
+          <option value="{{ kat.ime }}" *ngFor="let kat of Kategorije">
+            {{ kat.ime }}
+          </option>
+        </select>
+      </div>
+      <div class="input-label" *ngIf="getProfileMode() == 1">
+        <label class="info-name" for="">Lozinka</label>
+        <input type="password" [(ngModel)]="lozinka" />
+      </div>
+      <div *ngIf="getProfileMode() == 1 && getProfileType() == 0">
+        <app-upload [idProizvoda]="idProdavnica"></app-upload>
+      </div>
+      <div>
+        <button
+          mat-raised-button
+          *ngIf="getProfileMode() == 0"
+          (click)="ChangeProfileMode()"
+        >
+          Izmeni
+        </button>
+        <button
+          mat-raised-button
+          *ngIf="getProfileMode() == 1"
+          (click)="izmeniPodatke()"
+        >
+          Sacuvaj
+        </button>
+        <button
+          mat-raised-button
+          *ngIf="getProfileType() == 0"
+          (click)="dodajProizvod()"
+        >
+          Dodaj proizvod
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="data">
+    <div class="data-list">
+      <div
+        class="element"
+        *ngFor="let pr of Proizvodi"
+        (click)="ViewProizvod(pr)"
+      >
+        <img [src]="createImgPathProiz(pr.slika)" />
+        <p><label>Ime:</label> {{ pr.ime }}</p>
+        <p><label>Cena:</label> {{ pr.cena }} RSD</p>
+        <p>
+          <label>Dostupnost:</label> <label *ngIf="pr.dostupnost">Da</label
+          ><label *ngIf="!pr.dostupnost">Ne</label>
+        </p>
+        <p><label>Kategorija:</label> {{ pr.kategorija }}</p>
+        <app-upload [idProizvoda]="pr.id_string"></app-upload>
+        <button mat-button (click)="ObrisiProizvod(pr.id_string)">X</button>
+      </div>
+
+      <div
+        class="element"
+        *ngFor="let nr of Narudzbine"
+        (click)="prikazi(nr.proizvodi)"
+      >
+        <p><label>Datum i vreme:</label> {{ nr.vreme }}</p>
+        <p><label>Ukupna cena:</label> {{ nr.cena }} RSD</p>
+      </div>
+    </div>
+  </div>
+</div>

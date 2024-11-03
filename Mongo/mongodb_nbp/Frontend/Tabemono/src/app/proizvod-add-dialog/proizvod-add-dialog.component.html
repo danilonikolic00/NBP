@@ -1,0 +1,19 @@
+<div class="prozivod-add-content">
+  <div style="text-align: center">
+    <h2>DODAVANJE PROIZVODA</h2>
+    <h3>製品の追加</h3>
+  </div>
+  <label>Ime</label>
+  <input [(ngModel)]="proizvod.ime" />
+  <label>Cena</label>
+  <input type="number" [(ngModel)]="proizvod.cena" />
+  <select name="avl" [(ngModel)]="proizvod.dostupnost">
+    <option value="true">Da</option>
+    <option value="false">Ne</option>
+  </select>
+  <label>Kategorija</label>
+  <input [(ngModel)]="proizvod.kategorija" />
+  <label>Opis:</label>
+  <textarea [(ngModel)]="proizvod.opis"></textarea>
+  <button mat-button (click)="AddProduct()">Dodaj</button>
+</div>

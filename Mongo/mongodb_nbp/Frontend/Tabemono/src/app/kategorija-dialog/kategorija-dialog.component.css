@@ -1,0 +1,30 @@
+.add-content {
+  width: 23rem;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background: rgb(51, 56, 103);
+  background: linear-gradient(
+    90deg,
+    rgba(51, 56, 103, 1) 0%,
+    rgba(24, 26, 60, 1) 100%
+  );
+  color: white;
+
+  border: 16px solid black;
+}
+
+.add-content input {
+  width: 70%;
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+.add-content button {
+  margin-top: 2rem;
+  width: 8rem;
+  height: 2rem;
+  font-size: 1.1rem;
+}

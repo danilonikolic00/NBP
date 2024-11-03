@@ -1,0 +1,28 @@
+<div class="kategoije-content">
+  <div class="panel">
+    <mat-form-field
+      ><input matInput [(ngModel)]="nazivKategorije"
+    /></mat-form-field>
+    <button mat-raised-button (click)="nadjiKategoriju()" type="submit">
+      Pronadji
+    </button>
+    <button mat-raised-button type="submit" (click)="openKategorijaDialog()">
+      Dodaj
+    </button>
+  </div>
+
+  <div class="ketegorije-data">
+    <div class="element" *ngFor="let kat of KategorijeList">
+      <img src="assets/Tabemono.png" />
+      <div>{{ kat.id_string }}</div>
+      <div>{{ kat.ime }}</div>
+      <button
+        mat-flat-button
+        id="del-btn"
+        (click)="IzbrisiKategoriju(kat.id_string)"
+      >
+        X
+      </button>
+    </div>
+  </div>
+</div>

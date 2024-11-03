@@ -1,0 +1,25 @@
+<div class="panel-content">
+  <header>
+    <div class="admin-logo">
+      ADMIN PANEL <br />
+      管理パネル
+    </div>
+    <button id="btn" mat-raised-button (click)="openRestorani()">
+      Restorani
+    </button>
+    <button id="btn" mat-raised-button (click)="openKategorije()">
+      Kategorije
+    </button>
+    <button
+      id="btn"
+      mat-raised-button
+      style="margin-right: 2rem"
+      (click)="logout()"
+    >
+      IZLOGUJ SE
+    </button>
+  </header>
+  <div style="width: 100%; height: 100%">
+    <router-outlet></router-outlet>
+  </div>
+</div>

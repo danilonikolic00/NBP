@@ -1,0 +1,35 @@
+<div class="cart-content">
+  <div
+    class="cart-product"
+    *ngFor="let pr of proizvodi"
+    (click)="viewProizvod(pr)"
+  >
+    <img
+      src="assets/food-default.png"
+      *ngIf="pr.slika == '' || pr.slika == null"
+    />
+    <img
+      [src]="createImgPathProiz(pr.slika)"
+      *ngIf="pr.slika != null && pr.slika != ''"
+    />
+    <div>
+      <label class="info-name-label">Ime: </label><br />
+      <label>{{ pr.ime }}</label>
+    </div>
+    <div>
+      <label class="info-name-label">Cena:</label><br />
+      <label>{{ pr.cena }} RSD</label>
+    </div>
+    <div>
+      <label class="info-name-label">Dostupnost:</label><br /><label
+        *ngIf="pr.dostupnost"
+        >Da</label
+      >
+      <label *ngIf="!pr.dostupnost">Ne</label>
+    </div>
+    <button mat-icon-button (click)="izbaciIzKorpe(pr.id_string)">X</button>
+  </div>
+  <div>
+    <button mat-raised-button [disabled]="brProizvoda==0" (click)="otvoriNarudzbinu()">Poruci</button>
+  </div>
+</div>

@@ -1,0 +1,65 @@
+<div class="dialog-content">
+  <div class="dialog-photo"><img [src]="createImgPath(data.lokacija)" /></div>
+
+  <div *ngIf="changeMode">
+    <div class="tagovi-div">
+      <div *ngFor="let t of tags">{{ t.naziv }}</div>
+    </div>
+  </div>
+  <div *ngIf="!changeMode">
+    <input [(ngModel)]="InputTags" #tags />
+  </div>
+
+  <button
+    mat-raised-button
+    color="primary"
+    (click)="PromeniMod()"
+    *ngIf="cookie.get('LoggedIn') == cookie.get('UserProfile')"
+  >
+    Edit
+  </button>
+  <button
+    mat-raised-button
+    color="primary"
+    (click)="changePhotoInfo()"
+    *ngIf="!changeMode"
+  >
+    Sacuvaj
+  </button>
+  <div class="Like-Comm-div">
+    <div class="Like-div">
+      <mat-icon (click)="Like()">thumb_up</mat-icon>
+      <mat-icon (click)="Unlike()">thumb_down</mat-icon>
+      <button
+        (click)="deletePhoto()"
+        *ngIf="cookie.get('LoggedIn') == cookie.get('UserProfile')"
+      >
+        Obrisi
+      </button>
+      <div>
+        <label (click)="Lista_Like()"
+          >Broj svidjanja: {{ data.broj_lajkova }}
+        </label>
+        <label (click)="Lista_Comment()">
+          Broj komentara: {{ data.broj_komentara }}</label
+        >
+      </div>
+    </div>
+    <div class="Comm-div">
+      <div style="width: 85%; margin-top: 1rem; margin-bottom: 3rem">
+        <div>{{ username }}:</div>
+        <textarea
+          class="comment"
+          placeholder="Napisi komentar"
+          #text
+        ></textarea>
+        <button (click)="Comment(text.value)">Posalji</button>
+        <button (click)="Pomeni(text.value)">Pomeni</button>
+      </div>
+      <div style="width: 85%" *ngFor="let t of koments">
+        <div>{{ t.salje.korisnicko_ime }}</div>
+        <textarea class="comment" disabled>{{ t.tekst }}</textarea>
+      </div>
+    </div>
+  </div>
+</div>

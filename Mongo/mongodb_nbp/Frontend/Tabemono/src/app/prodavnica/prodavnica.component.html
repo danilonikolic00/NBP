@@ -1,0 +1,76 @@
+<div class="shop-content">
+  <div class="shop-info-div">
+    <div class="shop-img">
+      <img
+        [src]="createImgPathProiz(prod.slika)"
+        *ngIf="prod.slika != null && prod.slika != ''"
+      />
+      <img
+        src="/assets/Tabemono.png"
+        *ngIf="prod.slika == '' || prod.slika == null"
+      />
+    </div>
+    <div class="shop-info">
+      <div>
+        <label class="info-name-label">Naziv: </label><br /><label>
+          {{ prod.ime }}</label
+        >
+      </div>
+      <div>
+        <label class="info-name-label">Kontakt email:</label><br /><label>
+          {{ prod.email }}</label
+        >
+      </div>
+      <div>
+        <label class="info-name-label">Broj telefona:</label><br /><label>
+          {{ prod.broj_telefona }}</label
+        >
+      </div>
+      <div>
+        <label class="info-name-label">Adresa:</label><br /><label>
+          {{ prod.adresa }}</label
+        >
+      </div>
+      <div (click)="rateProdavac()">
+        <label class="info-name-label">Ocena:</label><br /><label>
+          {{ prod.ocena }}</label
+        >
+      </div>
+    </div>
+    <button
+      mat-raised-button
+      color="accent"
+      (click)="rateProdavac()"
+      *ngIf="buttonVisibility"
+    >
+      Oceni
+    </button>
+  </div>
+  <div class="shop-menu-div">
+    <div class="shop-product" *ngFor="let p of pr" (click)="viewProzivod(p)">
+      <img
+        [src]="createImgPathProiz(p.slika)"
+        *ngIf="p.slika != null && p.slika != ''"
+      />
+      <img
+        src="assets/food-default.png"
+        *ngIf="p.slika == '' || p.slika == null"
+      />
+      <div>
+        <label class="info-name-label">Ime: </label><br />
+        <label>{{ p.ime }}</label>
+      </div>
+      <div>
+        <label class="info-name-label">Cena:</label><br />
+        <label>{{ p.cena }} RSD</label>
+      </div>
+      <div>
+        <label class="info-name-label">Dostupnost:</label><br /><label
+          *ngIf="p.dostupnost"
+          >Da</label
+        >
+        <label *ngIf="!p.dostupnost">Ne</label>
+      </div>
+    </div>
+  </div>
+</div>
